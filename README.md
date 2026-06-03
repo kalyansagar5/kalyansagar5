@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Kalyan Sagar
 
-<!--
-**kalyansagar5/kalyansagar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 DevOps Engineer | ☁️ AWS Cloud Enthusiast  
+📍 Hyderabad, India | Open to DevOps & Cloud roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Cloud:** AWS (EC2, S3, RDS, IAM, VPC, Lambda, CloudFormation)
+- **IaC:** Terraform, Ansible
+- **Containers:** Docker, Kubernetes (EKS)
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Monitoring:** Prometheus, Grafana, CloudWatch
+- **OS/Scripting:** Linux, Bash, Python
+
+---
+
+### 📫 Connect with me
+[![LinkedIn] www.linkedin.com/in/kalyan-sagar-64171a411
