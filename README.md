@@ -6,10 +6,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Cloud:** AWS (EC2, S3, RDS, IAM, VPC, Lambda, CloudFormation)
+- **Cloud:** AWS (EC2, S3, RDS, IAM, VPC, CloudFormation)
 - **IaC:** Terraform, Ansible
 - **Containers:** Docker, Kubernetes (EKS)
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **CI/CD:** Jenkins, GitHub Actions
 - **Monitoring:** Prometheus, Grafana, CloudWatch
 - **OS/Scripting:** Linux, Bash, Python
 
