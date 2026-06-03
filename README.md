@@ -20,4 +20,4 @@ Skilled in CI/CD pipelines, container orchestration, and cloud-native solutions.
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)] www.linkedin.com/in/kalyan-sagar-64171a411
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)] www.linkedin.com/in/kalyan-sagar-64171a411
