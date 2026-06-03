@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Kalyan Sagar
 
+DevOps Engineer with hands-on experience in AWS, Terraform, Docker, and Kubernetes.
+Passionate about automating deployments, building resilient infrastructure, and driving DevOps culture.
+Skilled in CI/CD pipelines, container orchestration, and cloud-native solutions.
+
 🔧 DevOps Engineer | ☁️ AWS Cloud Enthusiast  
 📍 Hyderabad, India | Open to DevOps & Cloud roles
 
@@ -16,4 +20,4 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn] www.linkedin.com/in/kalyan-sagar-64171a411
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)] www.linkedin.com/in/kalyan-sagar-64171a411
